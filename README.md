@@ -23,15 +23,15 @@ A personal portfolio website designed to showcase my skills, projects, and profe
    git clone https://github.com/your-repository-link.git
 
 
-## Group Name Memebers and their repository links
+## GROUP 10 COLLABORATION 
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
+Peer Group Collaboration:
+This project was assigned to a pre-formed peer group, but I did not receive any collaboration or contributions from my assigned group members before the deadline.
+
+Individual Contribution:
+All work, including code, design, and documentation, was completed individually by Nelson Njihia. Links to the project repository and any relevant documentation are provided below.
+
+Every effort was made to reach out to the team for collaboration, but no responses were received. This submission reflects only the contributions of Nelson Njihia.
+
+
 
