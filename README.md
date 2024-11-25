@@ -21,6 +21,8 @@ A personal portfolio website designed to showcase my skills, projects, and profe
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository-link.git
+##  HOSTING
+ The portfolio is live at  https://knelso.github.io/PORTFOLIO/
 
 
 
